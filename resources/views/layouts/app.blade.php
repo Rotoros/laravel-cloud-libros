@@ -21,7 +21,7 @@
 
         /* Tarjeta de contenido */
         .card {
-            background-color: rgba(255, 255, 255, 0.95); /* blanco semitransparente */
+            background-color: rgba(58, 206, 217, 0.95); /* blanco semitransparente */
             border-radius: 1rem;
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
             padding: 30px;
