@@ -10,7 +10,7 @@
             background: linear-gradient(135deg, #6a11cb, #2575fc); /* degradado azul-morado */
             min-height: 100vh;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: #333;
+            color: #020202;
         }
 
         /* Contenedor principal */
